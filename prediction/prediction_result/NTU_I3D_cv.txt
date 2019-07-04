@@ -1,0 +1,7 @@
+rgb_acc: 98.21
+depth_acc: 89.29
+opti_flow_acc: 89.29
+rgb_depth_acc: 98.21
+rgb_opti_flow_acc: 96.43
+depth_opti_flow_acc: 92.86
+rgb_depth_opti_flow_acc: 98.21
